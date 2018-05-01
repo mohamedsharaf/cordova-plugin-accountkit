@@ -1,6 +1,6 @@
 [![npm version](https://badge.fury.io/js/cordova-plugin-accountkit.svg)](https://badge.fury.io/js/cordova-plugin-accountkit)
 
-Cordova AccountKit Plugin
+fork of the plugin but works with facebook 4 plugin - Cordova AccountKit Plugin
 ======
 
 The Apache Cordova wrapper around the Facebook [AccountKit](https://www.accountkit.com/).
