@@ -7,6 +7,8 @@ The Apache Cordova wrapper around the Facebook [AccountKit](https://www.accountk
 
 
 ## Installation
+u must install thie facbook4plugin first 
+https://github.com/jeduan/cordova-plugin-facebook4
 
 1. Create Facebook Developer Account
 2. Get a Facebook App ID  (`APP_ID`)
@@ -14,7 +16,7 @@ The Apache Cordova wrapper around the Facebook [AccountKit](https://www.accountk
 4. To install the plugin in your app, execute the following (replace variables where necessary):
 
 ```bash
-cordova plugin add cordova-plugin-accountkit --save \
+cordova plugin add https://github.com/mohamedsharaf/cordova-plugin-accountkit.git --save \
    --variable APP_ID="123456789" \
    --variable APP_NAME="myApplication" \
    --variable CLIENT_TOKEN="abcdefghijklmnopqrstuvwxyz" \
